@@ -23,7 +23,7 @@ export function RegisterScreen({ nav }: NavProps) {
         </div>
         <Card>
           <Field label="Full Name"><Input type="text" placeholder="Omar Salah" /></Field>
-          <Field label="Email Address"><Input type="email" placeholder="amira@example.com" /></Field>
+          <Field label="Email Address"><Input type="email" placeholder="omarrr.salahhh2003@gmail.com" /></Field>
           <Field label="Phone Number"><Input type="tel" placeholder="+20 10 1234 5678" /></Field>
           <Field label="Password"><PasswordInput placeholder="Create a strong password" name="password" /></Field>
           <Field label="Confirm Password"><PasswordInput placeholder="Repeat your password" name="confirm" /></Field>

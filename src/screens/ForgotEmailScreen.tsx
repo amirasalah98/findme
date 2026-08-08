@@ -24,7 +24,7 @@ export function ForgotEmailScreen({ nav }: NavProps) {
           <p style={{ fontFamily: "Inter", fontSize: 14, color: C.muted, margin: 0, lineHeight: 1.6 }}>Enter the email address associated with your account and we'll send you a verification code.</p>
         </div>
         <Card>
-          <Field label="Email Address"><Input type="email" placeholder="amira@example.com" /></Field>
+          <Field label="Email Address"><Input type="email" placeholder="omarrr.salahhh2003@gmail.com" /></Field>
           <PrimaryButton onClick={() => nav("forgot-otp")}>Send Verification Code</PrimaryButton>
         </Card>
         <p style={{ textAlign: "center", fontFamily: "Inter", fontSize: 14, color: C.muted }}>

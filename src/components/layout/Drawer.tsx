@@ -22,7 +22,7 @@ export function Drawer({ open, onClose, nav }: { open: boolean; onClose: () => v
             <div style={{ width: 36, height: 36, borderRadius: "50%", background: C.teal, display: "flex", alignItems: "center", justifyContent: "center", color: "white" }}>{Icon.user}</div>
             <div>
               <p style={{ fontFamily: "Inter", fontWeight: 600, fontSize: 14, color: C.navy, margin: 0 }}>Omar Salah</p>
-              <p style={{ fontFamily: "Inter", fontSize: 12, color: C.muted, margin: 0 }}>amira@example.com</p>
+              <p style={{ fontFamily: "Inter", fontSize: 12, color: C.muted, margin: 0 }}>omarrr.salahhh2003@gmail.com</p>
             </div>
           </div>
         </div>

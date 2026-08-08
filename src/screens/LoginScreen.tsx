@@ -22,7 +22,7 @@ export function LoginScreen({ nav }: NavProps) {
           <p style={{ fontFamily: "Inter", fontSize: 14, color: C.muted, margin: 0 }}>Log in to your account to continue.</p>
         </div>
         <Card>
-          <Field label="Email Address"><Input type="email" placeholder="amira@example.com" /></Field>
+          <Field label="Email Address"><Input type="email" placeholder="omarrr.salahhh2003@gmail.com" /></Field>
           <Field label="Password"><PasswordInput placeholder="Enter your password" name="password" /></Field>
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginTop: -6 }}>
             <Checkbox>Remember me</Checkbox>
